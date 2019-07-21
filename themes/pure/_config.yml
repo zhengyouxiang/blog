@@ -123,7 +123,7 @@ comment:
   gitalk: # gitalk. https://gitalk.github.io/
     owner:  zhengyouxiang #必须. GitHub repository 所有者，可以是个人或者组织。
     admin:  zhengyouxiang #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
-    repo:  https://github.com/zhengyouxiang/blog #必须. GitHub repository.
+    repo:  blog #必须. GitHub repository.
     ClientID:  3e6c0c5b3769a628e88c #必须. GitHub Application Client ID.
     ClientSecret:  ba93d4dc039fdbb32858dd4e825c643d6496756f #必须. GitHub Application Client Secret.
   valine: # Valine. https://valine.js.org
