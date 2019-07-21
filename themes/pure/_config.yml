@@ -97,18 +97,18 @@ donate:
 # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
 share:
   enable: true  # 是否启用分享
-  sites: weibo,qq,wechat,facebook,twitter  # PC端显示的分享图标
-  mobile_sites: weibo,qq,qzone  # 移动端显示的分享图标
+  sites: weibo,wechat  # PC端显示的分享图标
+  mobile_sites: weibo,qzone  # 移动端显示的分享图标
 
 # Github
 github: 
-  username: cofess  # github username
+  username: zhengyouxiang  # github username
 
 # Comment
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
 comment:
-  type: valine  # 启用哪种评论系统
+  type: gitalk  # 启用哪种评论系统
   disqus:  # enter disqus shortname here
   youyan: 
     uid: 1783844 # enter youyan uid 
@@ -121,11 +121,11 @@ comment:
     ClientSecret: 
     lazy: false
   gitalk: # gitalk. https://gitalk.github.io/
-    owner:  #必须. GitHub repository 所有者，可以是个人或者组织。
-    admin:  #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
-    repo:  #必须. GitHub repository.
-    ClientID:  #必须. GitHub Application Client ID.
-    ClientSecret:  #必须. GitHub Application Client Secret.
+    owner:  zhengyouxiang #必须. GitHub repository 所有者，可以是个人或者组织。
+    admin:  zhengyouxiang #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
+    repo:  https://github.com/zhengyouxiang/blog #必须. GitHub repository.
+    ClientID:  3e6c0c5b3769a628e88c #必须. GitHub Application Client ID.
+    ClientSecret:  ba93d4dc039fdbb32858dd4e825c643d6496756f #必须. GitHub Application Client Secret.
   valine: # Valine. https://valine.js.org
     appid:  # your leancloud application appid
     appkey:  # your leancloud application appkey
@@ -172,7 +172,7 @@ postCount:
 plugins:
   google_analytics: # enter the tracking ID for your Google Analytics
   google_site_verification: # enter Google site verification code
-  baidu_analytics: # enter Baidu Analytics hash key
+  baidu_analytics: ec4831b18e8fca05ed8efb0ae90324c0
   tencent_analytics: 
   
 # Miscellaneous
@@ -188,14 +188,13 @@ profile:
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: 特加豆
   author_title: coder
-  author_description: 不放弃
+  author_description: 要有最朴素的生活和最遥远的梦想，即使明日天寒地冻，路远马亡。
   location: Hangzhou, China
-  follow: https://github.com/zhengyouxiang
+  follow: https://www.tejiadou.com
   # Social Links
   social:
     links:
       github: https://github.com/zhengyouxiang
-      weibo: https://weibo.com/u/2337695931
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
@@ -207,8 +206,6 @@ profile:
     Github: https://github.com/zhengyouxiang
     Blog: http://www.tejiadou.com/
     微博: https://weibo.com/u/2337695931
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
     - Java
