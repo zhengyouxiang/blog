@@ -1,7 +1,11 @@
 ---
-title: My New Post
+title: My New Postt
 date: 2019-07-21 17:39:11
 tags:
+  - a
+  - b
+categories:
+  - hexo  
 ---
 
 
