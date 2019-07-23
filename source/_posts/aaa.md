@@ -1,5 +1,5 @@
 ---
-title: My New Postt
+title: aaa
 date: 2019-07-21 17:39:11
 tags:
   - a
@@ -8,20 +8,64 @@ categories:
   - hexo  
 ---
 
+ 
+
+aaaaaaa      
 
 
 
+_dd![1021_3 (1)](/Users/joy/个人/生活照/1021_3 (1).jpg)_
+
+__ddd__
+
+___ddd___
+
+***
+
+***
+
+~~ddd~~
+
+<u>dd</u>
+
+[^ddd] ddd
+
+[^RUNOOB] 
+
+
+
+
+
+
+
+*ddd*
+
+**ddd**
 
 ```
-ddd
+As Kanye West said:
 
+> We're living the future so
+> the present is our pa
 ```
 
-(http://ww1.sinaimg.cn/large/006tNc79ly1g57m7jn4kij30u01j4u0x.jpg)
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+I think you should use an
+`<addr>` element here instead.
 
 
-````php
-$a = "java";
-echo $a;
-````
+
+ First Header                | Second Header                
+ :---: | --- 
+ Content from cell 1         | Content from cell 2          
+
+
+
+aaa    |   ddd
+--- | --- 
+aaa | dd
 
