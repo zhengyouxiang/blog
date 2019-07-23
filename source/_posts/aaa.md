@@ -8,13 +8,17 @@ categories:
   - hexo  
 ---
 
+
+
+![](http://ww4.sinaimg.cn/large/006tNc79ly1g5a1lgyktvj30jr0qoq56.jpg)
+
  
 
 aaaaaaa      
 
 
 
-_dd![1021_3 (1)](/Users/joy/个人/生活照/1021_3 (1).jpg)_
+_dd![](/Users/joy/个人/生活照/1021_3 (1).jpg
 
 __ddd__
 
