@@ -1,11 +1,12 @@
 ---
-title: algorithm
+title: 数据结构与算法
 date: 2019-07-28 16:04:41
 tags:
-  - algorithm 
+  - 数据结构
+  - 算法
   - 2019
 categories:
-  - algorithm  
+  - 数据结构与算法  
 ---
  
 ## 数组
